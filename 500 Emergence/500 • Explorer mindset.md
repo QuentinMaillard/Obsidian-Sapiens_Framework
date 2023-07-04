@@ -1,5 +1,5 @@
 
-Inspired by : Julia Galef, the scout mindset
+Inspired by : Julia Galef, [[310 • The scout Mindset|The Scout Mindset]]
 
 ---
 # Note

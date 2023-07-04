@@ -6,7 +6,7 @@ If a question indicates what is unknown to me, then finding more questions allow
 
 Keeping them in mind and renewing them enables me to navigate through the realms of the unknown.
 
-Questions become a tool for understanding and discovery, the essential instrument of [[explorer mindset]]
+Questions become a tool for understanding and discovery, the essential instrument of [[500 • Explorer mindset|explorer mindset]]
 
 ---
 # It makes me think of
