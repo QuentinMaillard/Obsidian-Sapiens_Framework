@@ -1,6 +1,6 @@
 ⬆️ up :: [[310. Books]]
 
- 🏷️ tags :: #index/embodiment 
+ 🏷️ tags :: #index/embodiment , #book/on-going
 
 ---
 

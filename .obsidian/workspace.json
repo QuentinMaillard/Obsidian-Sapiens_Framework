@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "3439b98bae7067c4",
+        "id": "da21b85f8cf02b74",
         "type": "tabs",
         "children": [
           {
-            "id": "ede2e11484d2e1c6",
+            "id": "59bf0c41466c9edb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "600 Nexus/600 Nexus.md",
+                "file": "• Home •.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be15a6b522ee188c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e18b0ab62677e66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "600 Nexus/600 Nexus.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "600 Nexus/600 Nexus.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "600 Nexus/600 Nexus.md"
+                "file": "README.md"
               }
             }
           },
@@ -157,15 +182,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ede2e11484d2e1c6",
+  "active": "be15a6b522ee188c",
   "lastOpenFiles": [
     "• Home •.md",
-    "400 Involvement/400 Involvement.md",
     "README.md",
+    "a.md",
+    "600 Standards/600 • SAPIENS (vault) Standard.md",
+    "200 Activities/220. Writing/221 • Article - System Thinking/221 • Article - System Thinking.md",
+    "200 Activities/210. Coding/211 • My portfolio/211 • My portfolio.md",
+    "600 Standards/600 Standards.md",
+    "700 Nexus/710. MOCs/710. MOCs.md",
+    "700 Nexus/710. MOCs/710 • System applications.md",
+    "700 Nexus/700 Nexus.md",
+    "300 Provisioning/310. Books/310 • The scout Mindset.md",
+    "400 Involvement/400 Involvement.md",
     "400 Involvement/420. Organisations/420. Organisations.md",
     "400 Involvement/410. Humans/410 • Quentin Maillard.md",
-    "600 Nexus/600 Nexus.md",
-    "300 Provisioning/310. Books/310 • The scout Mindset.md",
     "500 Emergence/500 • Explorer mindset.md",
     "500 Emergence/500 • Compass questions.md",
     "500 Emergence/500 • Technical debt (dfn).md",
@@ -173,11 +205,7 @@
     "500 Emergence/500 • Complexity (dfn).md",
     "300 Provisioning/310. Books/310. Books.md",
     "300 Provisioning/300 Provisioning.md",
-    "700 Standards/700 • Vault Standard.md",
-    "600 Nexus/610. MOCs/610 • System applications.md",
     "300 Provisioning/310. Books",
-    "200 Activities/210. Coding/211. My portfolio/211. My portfolio.md",
-    "600 Nexus/610. MOCs/610. MOCs.md",
     "400 Involvement/420. Organisations/420 • Hetic.md",
     "• Extras •/Templates/Template • 400 Involvement Human.md",
     "400 Involvement/410. Humans/410. Humans.md",
@@ -185,15 +213,12 @@
     "400 Involvement/420. Organisations",
     "400 Involvement/410. Humans",
     "500 Emergence/500 • Environment of a system.md",
-    "500 Emergence/500 Emergence.md",
-    "500 Emergence/500 • Environment and processing.md",
-    "500 Emergence/500 • Exponential complexity.md",
     "500 Emergence/520. Stars",
     "500 Emergence/510. Nebulae",
-    "200 Activities/220. Writing/221. Article - System Thinking",
+    "200 Activities/220. Writing/221 • Article - System Thinking",
     "• Extras •/Attachements/planetarium.jpeg",
     "600 Nexus/620. Logs",
-    "600 Nexus/610. MOCs",
+    "700 Nexus/710. MOCs",
     "• Extras •/Attachements",
     "200 Activities/220. Writing/• Ressources"
   ]

@@ -1,4 +1,4 @@
-⬆️ up :: [[221. Article - System Thinking]]
+⬆️ up :: [[221 • Article - System Thinking]]
 
 🏷️ tags :: #important
 

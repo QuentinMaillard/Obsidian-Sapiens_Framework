@@ -1,6 +1,6 @@
-⬆️ up :: [[610. MOCs]]
+⬆️ up :: [[710. MOCs]]
 
-🏷️ tags :: #index/embodiment
+🏷️ tags :: #index/embodiment, #moc/on-going
 
 ---
 
