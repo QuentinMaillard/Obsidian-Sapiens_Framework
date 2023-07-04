@@ -1,5 +1,6 @@
 # S.A.P.I.E.N.S. Framework
 An approach to daily-life.
+
 👉 This is an Alpha version, intended to spark discussions, help some people start somewhere with PKM/Obsidian, and get feedbacks 💫
 
 # 📝Table of content
