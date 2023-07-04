@@ -1,0 +1,32 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "111 • YYYY-MM-DD •",
+    "template": "• Extras •/Templates/Template • Journal Day.md",
+    "folder": "100 Self-care/110. Journal/111. Days",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "112 • YYYY-[W]ww • ",
+    "template": "• Extras •/Templates/Template • Journal Week.md",
+    "folder": "100 Self-care/110. Journal/112. Weeks",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}
