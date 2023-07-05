@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "da21b85f8cf02b74",
+        "id": "1ea736614a2dd8c5",
         "type": "tabs",
         "children": [
           {
-            "id": "042ae6e89b00487b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f73668461e50b0d2",
+            "id": "8188d859e8f1e58e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,15 +157,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f73668461e50b0d2",
+  "active": "f7f740ccc2f0edd3",
   "lastOpenFiles": [
-    "• Home •.md",
+    "200 Activities/220. Writing/• Outputs •",
     "README.md",
+    "• Home •.md",
     "700 Standards/700 • SAPIENS (vault) Standard.md",
-    "200 Activities/210. Coding/• Ressources/210 • CodeGPT Prompt.md",
+    "200 Activities/210. Coding/• Ressources •/210 • CodeGPT Prompt.md",
     "200 Activities/210. Coding/211 • My portfolio/211 • My portfolio.md",
     "200 Activities/210. Coding/210. Coding.md",
-    "200 Activities/210. Coding/• Ressources/210 • Git cheat sheet.md",
+    "200 Activities/210. Coding/• Ressources •/210 • Git cheat sheet.md",
     "600 Nexus/610. MOCs/610. MOCs.md",
     "a.md",
     "200 Activities/220. Writing/221 • Article - System Thinking/221 • Article - System Thinking.md",
@@ -198,7 +186,6 @@
     "300 Provisioning/300 Provisioning.md",
     "300 Provisioning/310. Books",
     "400 Involvement/420. Organisations/420 • Hetic.md",
-    "• Pocket Space •/Templates/Template • 400 Involvement Human.md",
     "400 Involvement/420. Organisations",
     "400 Involvement/410. Humans",
     "500 Emergence/520. Stars",

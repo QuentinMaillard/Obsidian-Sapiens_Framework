@@ -306,8 +306,11 @@ The indexing and ordering of the **Foundation** is helped by the following numbe
 - **011:** Sub-Dimension
 	- Just another degree of precision for a dimension, can be useful to multiply our taxonomy and gain granularity
 - **XXX** • Embodiment
-- No numbers
-	- Just the notes linked to an embodiment or in the • Extras • folder
+- • folder/file •
+	- Just notes and folders you want to stand out for whatever reason, without being its own place or embodiment
+	- I personally use it for miscellaneous files and support notes
+- *No numbers*
+	- Just notes and folders of a place
 
 The numbering is inspired by:
 - The Dewey system
