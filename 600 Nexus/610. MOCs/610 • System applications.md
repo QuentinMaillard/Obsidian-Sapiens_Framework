@@ -1,4 +1,4 @@
-⬆️ up :: [[710. MOCs]]
+⬆️ up :: [[610. MOCs]]
 
 🏷️ tags :: #index/embodiment, #moc/on-going
 

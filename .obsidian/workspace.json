@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "be15a6b522ee188c",
+            "id": "3e18b0ab62677e66",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "3e18b0ab62677e66",
+            "id": "042ae6e89b00487b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "• Home •.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,18 +182,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "be15a6b522ee188c",
+  "active": "3e18b0ab62677e66",
   "lastOpenFiles": [
     "• Home •.md",
     "README.md",
+    "700 Standards/700 • SAPIENS (vault) Standard.md",
+    "600 Nexus/610. MOCs/610. MOCs.md",
     "a.md",
-    "600 Standards/600 • SAPIENS (vault) Standard.md",
     "200 Activities/220. Writing/221 • Article - System Thinking/221 • Article - System Thinking.md",
     "200 Activities/210. Coding/211 • My portfolio/211 • My portfolio.md",
-    "600 Standards/600 Standards.md",
-    "700 Nexus/710. MOCs/710. MOCs.md",
-    "700 Nexus/710. MOCs/710 • System applications.md",
-    "700 Nexus/700 Nexus.md",
+    "700 Standards/600 Standards.md",
+    "600 Nexus/610. MOCs/610 • System applications.md",
+    "600 Nexus/600 Nexus.md",
     "300 Provisioning/310. Books/310 • The scout Mindset.md",
     "400 Involvement/400 Involvement.md",
     "400 Involvement/420. Organisations/420. Organisations.md",
@@ -218,7 +218,7 @@
     "200 Activities/220. Writing/221 • Article - System Thinking",
     "• Extras •/Attachements/planetarium.jpeg",
     "600 Nexus/620. Logs",
-    "700 Nexus/710. MOCs",
+    "600 Nexus/610. MOCs",
     "• Extras •/Attachements",
     "200 Activities/220. Writing/• Ressources"
   ]

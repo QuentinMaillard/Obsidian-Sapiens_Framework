@@ -2,9 +2,9 @@
 banner: "![[planetarium.jpeg]]"
 banner_y: 0.664
 ---
-# Welcome, dear Homo Sapiens ❤️ 
+# Welcome to you Construct, dear Homo Sapiens ❤️ 
 
-👉 This note is the Home note, it can be an entry point to your most used ***spaces*** and ***dimensions***, or shortcuts to important ***embodiments*** (if these terms aren't clear to you, head to the [[600 • SAPIENS (vault) Standard|vault's standard]]). 
+👉 This note is the Home note, it can be an entry point to your most used ***spaces*** and ***dimensions***, or shortcuts to important ***embodiments*** (if these terms aren't clear to you, head to the [[700 • SAPIENS (vault) Standard|vault's standard]]). 
 
 👉 By the way, information following 👉 is destined to you, dear visitor.
 
@@ -12,7 +12,7 @@ banner_y: 0.664
 
 👉 Let's start with a welcoming sentence:
 
-Dear future us, we — the collective past versions of you — sincerely hope that  [[600 • SAPIENS (vault) Standard|this place]] we have meticulously crafted, will aid you in achieving your [[100 • 5 years vision|vision]].
+Dear future us, we — the collective past versions of you — sincerely hope that  [[700 • SAPIENS (vault) Standard|this place]] we have meticulously crafted, will aid you in achieving your [[100 • 5 years vision|vision]].
 
 ## Here is what's on the fire
 ```dataview
