@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "• Home •.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7e76c6708c2996ce",
+            "id": "f73668461e50b0d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "700 Standards/700 • SAPIENS (vault) Standard.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "700 Standards/700 • SAPIENS (vault) Standard.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "700 Standards/700 • SAPIENS (vault) Standard.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "700 Standards/700 • SAPIENS (vault) Standard.md"
+                "file": "README.md"
               }
             }
           },
@@ -170,15 +170,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7e76c6708c2996ce",
+  "active": "f73668461e50b0d2",
   "lastOpenFiles": [
-    "README.md",
     "• Home •.md",
+    "README.md",
+    "700 Standards/700 • SAPIENS (vault) Standard.md",
     "200 Activities/210. Coding/• Ressources/210 • CodeGPT Prompt.md",
     "200 Activities/210. Coding/211 • My portfolio/211 • My portfolio.md",
     "200 Activities/210. Coding/210. Coding.md",
     "200 Activities/210. Coding/• Ressources/210 • Git cheat sheet.md",
-    "700 Standards/700 • SAPIENS (vault) Standard.md",
     "600 Nexus/610. MOCs/610. MOCs.md",
     "a.md",
     "200 Activities/220. Writing/221 • Article - System Thinking/221 • Article - System Thinking.md",

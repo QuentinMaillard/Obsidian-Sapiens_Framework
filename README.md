@@ -313,22 +313,24 @@ The numbering is inspired by:
 - The Dewey system
 - Johnny Decimal
 
-The **Indexing** is not mandatory for **SAPIENS** to work, nor is the numbering system to the **Indexing**, but they help making indexes, retrieving data, and referencing vault's place in other systems (calendars app, other note taking apps, tasks lists, post-its, emails, etc).
+The **Indexing** is not mandatory for **SAPIENS/The Foundation** to work, nor is the numbering system to the **Indexing**, but they help making indexes, retrieving data, and referencing vault's place in other systems (calendars app, other note taking apps, tasks lists, post-its, emails, etc).
 
 # 🛣️ Roadmap
-- [ ] Improve explanation about indexing
 - [ ] Create more templates
-- [ ] Create a better walkthrough than a big README file
+- [ ] Enhance onboarding
+	- [ ] Create a better walkthrough than a big README file
 	- [ ] Is the whole thing to complex?
-- [ ] Reinforce the narrative and storytelling around the framework
+	- [ ] Improve explanation about indexing
+	- [ ] Enhance english
+	- [ ] Reinforce the narrative and storytelling around the framework
+	- [ ] Detail PLM method with my Venn diagram of reality (what is he talking about 🤔)
+	- [ ] Add informations about recommended methods to use inside the framework (gtd, zettel, etc)
+	- [ ] Add more examples across the repository
+	- [ ] Add synonyms to my neologisms and taxonomy to improve understanding
 - [ ] Propose a tag sytem
 - [ ] Implement a deeper use of MOCs
 - [ ] Add cool plugins 😎 to support the ideology
 - [ ] Find feedbacks to enhance the framework
-- [ ] Detail PLM method with my Venn diagram of reality (what is he talking about 🤔)
-- [ ] Add informations about recommended methods to use inside the framework (gtd, zettel, etc)
-- [ ] Add more examples across the repository
-- [ ] Improve readme and enhance english everywhere
 
 # 😊 Contributors
 - Quentin Maillard, find me here 👉 https://twitter.com/KentinMaiar
