@@ -1,5 +1,7 @@
 ⬆️ up :: [[210. Coding]]
 
+🏷️ tags :: #index/embodiment 
+
 ---
 
 1. Initialization:

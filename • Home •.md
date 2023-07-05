@@ -2,7 +2,7 @@
 banner: "![[planetarium.jpeg]]"
 banner_y: 0.664
 ---
-# Welcome to you Construct, dear Homo Sapiens ❤️ 
+# Welcome to you Foundation, dear Homo Sapiens ❤️ 
 
 👉 This note is the Home note, it can be an entry point to your most used ***spaces*** and ***dimensions***, or shortcuts to important ***embodiments*** (if these terms aren't clear to you, head to the [[700 • SAPIENS (vault) Standard|vault's standard]]). 
 

@@ -5,6 +5,17 @@ An approach to daily-life intended for Obsidian.
 ⚠️ This is an Alpha version that I hope will ignite discussions, provoke introspection, and give people a head start in the wondrous world of PKM/Obsidian.💫
 
 # 📝Table of content
+- [🤔 What is this?](#-what-is-this)
+	- [To sum it up](#to-sum-it-up)
+- [🫵 Is it for you?](#-is-it-for-you)
+- [🌱 Intention](#-intention)
+- [🧑‍🔧  Installation](#--installation)
+- [👩‍💻 Usage (standard)](#-usage-standard)
+	- [The Foundation](#the-foundation)
+	- [SAPIENS structure](#sapiens-structure)
+	- [The Indexing](#the-indexing)
+- [🛣️ Roadmap](#️-roadmap)
+- [😊 Contributors](#-contributors)
 
 
 # 🤔 What is this?
@@ -16,6 +27,7 @@ The model is a virtualisation of the main areas of mundane life that aims to hel
 - **Produce new ideas or links and process thoughts and emotions**
 - **Create outputs and maintain a knowledge around what counts for us**
 
+## To sum it up
 "**S.A.P.I.E.N.S**" stands for:
 - Self-care
 - Activities
@@ -24,7 +36,14 @@ The model is a virtualisation of the main areas of mundane life that aims to hel
 - Emergence
 - Nexus
 - Standards
-*👉 To understand more about what each means, **how it works** and the **philosophy** behind it, read the section [👩‍💻 Usage (standard)](#-usage-standard)*
+
+➡️ This underlying structure and the whole approach's intent is what I call the **Foundation**
+
+➡️ Each letter of SAPIENS represents a **Space** in the **Foundation**, each **Space** will have **Dimensions** and **Embodiments**
+
+➡️ Everything is **Indexed** with an agnostic **numbering** system.
+
+*👉 To understand more about what all that mean, **how the framework works** and all the **philosophy** behind it, read the section [👩‍💻 Usage (standard)](#-usage-standard)*
 
 *👉 To understand more about **my intention and its aims**, read the section [🌱 Intention](#-intention) below.*
 
@@ -46,7 +65,11 @@ It can be impressive at first, but in the use I wanted it to be very simple, wit
 *👉 I don't want it to be an overwhelming structure, but a fluid one. If it feels like so, do not hesitate to give me some feedbacks!*
 
 I want the SAPIENS Framework to be a global file/information taxonomy and philosophy to spark and support your curiosity, your thinking, your projects and responsibilities, and your introspections. 
-It looks a lot like ACCESS from Nick Milo. On my side I built a personal system to meet my need, and it converged toward what I will later discover as the ACCESS framework. I then nurtured my reflection with it, and tried to go beyond it, helped with system theory (more about that in the [👩‍💻 Usage (standard)](#-usage-standard) section)
+
+👉 **It looks in a lot of ways to ACCESS from Nick Milo and PARA from Tiago.**
+During my PKM journey I've built a personal system to meet my need, and it converged toward what I will later discover as the ACCESS framework.
+
+Obviously, with so much quality in these frameworks (and people), I was deeply inspired, but I tried to go beyond it with some help from system theory, Wilber's approach and my own views on life (more about that in the [👩‍💻 Usage (standard)](#-usage-standard) section).
 
 There is room for improvement, check roadmap an the end 👇
 
@@ -62,12 +85,13 @@ There is room for improvement, check roadmap an the end 👇
 *👉 If you are familiar with github, instead of the first step you can fork this repository and git clone the fork to have a versioned vault. This is what I do, it is extremely useful for backups.*
 
 # 👩‍💻 Usage (standard)
-👉 *This vault is like the LYT-Kit from Nick Milo, it is a proposition, based on personal experience and reflection, so you can nurture your own reflection about your current system, or just use it as a boiler-plate/template for your new system.* 
+👉 *This repository is like the LYT-Kit from Nick Milo, it is a proposition, based on personal experience and reflection, so you can nurture your own reflection about your current system, or just use it as a boiler-plate/template for your new system.* 
 
 👉 *Play around, explore, and don't hesitate a second to send me DM to talk about it or anything else, I'll be glad to chit-chat (twitter link at the bottom)*
 
-There are two main particularities to this system : the **Foundation** —which is the structure of the framework and its underlying particularities— and the **Indexing** system — supported by a dewey-like numbering, and the existing.
+There are three main particularities to this system : the **Foundation** —which is the structure of the framework and its underlying particularities—, the **SAPIENS** structure, and the **Indexing** system — supported by a dewey-like numbering, and the existing.
 
+## The Foundation 
 In the **Foundation**, a folder or note (except for extras) can be of three types:
 - **Space**
 - **Dimension** (of a space) and sub-dimension
@@ -93,15 +117,15 @@ In this repository you will find some examples of dimensions to inspire you and 
 
 ➡️ An **Embodiment** is the manifestation of a construct (**Spaces** or **Dimensions**) in our life, a place of active thinking and work.
 
-An Embodiment can be a note or a folder (collection of notes) at any level (Space, Dimension, Sub-Dimension). 
+An Embodiment can be a note or a folder (collection of notes) at any level (Space, Dimension, Sub-Dimension).
 
 An embodiment is a fluid object, made to incarnate a particular intention and objective, use it at will! 
 You can even have Dimensions or Sub-Dimensions as embodiments, like what I did with projects in Activities. At the same time a "Sub-Dimension" and an embodiment of the dimension. 
 
 These are guidelines and intents, now use them and break them as you wish!
 
-## The Spaces structure
-The current spaces are inspired from:
+## SAPIENS structure
+The current **Spaces** are inspired from:
 - Nick Milo's ACCESS and Tiago Forte's PARA
 - Wilber's quadrants
 - System Theory (*input -> process -> output*)
@@ -112,45 +136,70 @@ Each **Space** descend from a particularity of personal life.
 Their order follow a logical evolution. Let's see why.
 
 In Wilber's matrix in his integral approach, there are 4 quadrants : 
-- Individual Subjective : individual experiences of reality, emotions, intentions and mindsets, representations
-- Individual Objective : individual skills and actions, personal structures
-- Collective Objective: collective events and behaviours, social organisation
-- Collective Subjective: collective emotions and values, culture and group moral
+- **Individual Subjective** : individual experiences of reality, emotions, intentions and mindsets, representations
+- **Individual Objective** : individual skills and actions, personal structures
+- **Collective Objective** : collective events and behaviours, social organisation
+- **Collective Subjective** : collective emotions and values, culture and group moral
 
 This is our the starting point.
 
 Here it goes:
-- • Extras • 
-	- ➡️ Excluded file (in settings)
-	- Contains vault stuff like attachements and templates
-	- Place for archived stuff we don't want to see in graph and file search
-- 100 Self-care
-	- ➡️ Space supporting and representing the first quadrant: Individual Subjective
-	- It's a "**process**" step in the system theory
+- **• Pocket Space •** 
+	- Space guidelines
+		- Similar to **Extras** from **ACCESS** by Nick
+		- Excluded files (in settings)
+		- Contains vault stuff like attachements and templates
+		- Place for archived stuff we don't want to see in graph and file search
+	- Dimensions could be:
+		- Archives
+		- Templates
+		- Attachements
+		- PDFs
+- **100 Self-care**
+	- Theory/Intent
+		- Wilber: supporting and representing the first quadrant: **Individual Subjective**
+		- System theory: "**Process**" and "**Feedback**" oriented area in the system lifecycle
+		- PLM: *Experience* oriented
+	- Space guidelines
+		- Focus on self reflection and personal experience
+		- All stuff concerning YOU and your growth, your spirituality
 	- It can support: 
 		- Self awareness
 		- Experience of the world
 		- Emotion processing
 		- Intentions and north stars
 		- Reminders about life
-	- Dimensions can be:
+		- Meditation journaling
+	- Dimensions could be:
 		- Journal
 		- Feedbacks
 		- Moodtracker
-- 200 Activities
-	- ➡️ Space supporting and representing the second quadrant: Individual Objective
-	- It's an "**output**" step in the system theory
+- **200 Activities**
+	- Theory/Intent
+		- Wilber: supporting and representing the second quadrant: **Individual Objective**
+		- System theory: "**Output**" oriented area in the system lifecycle
+		- PLM: *Action* oriented
+	- Space guidelines
+		- Similar to **Spaces** from **ACCESS** by Nick and to **Areas+Projects** from **PARA** by Tiago
+		- Everything directly helping you in your day-to-day **actions**
+		- Maintain areas of responsabilities (work, health, finance, citizenship, etc) and hats (coder, writer, artist, celebrity, parent, etc)
+		- Can be project oriented with a the goal of outputs and deliverability
 	- It can support: 
 		- Life roles and Responsibilities
 		- Actions taken or Projects
 		- Application of skills
 		- Notes to directly support our actions
-	- Dimensions can be:
+	- Dimensions could be:
 		- Responsibilities and *hats*
 		- Projects
-- 300 Provisionning
-	- ➡️ Space supporting and representing the third quadrant: Collective Objective
-	- It's an "**input**" step in the system theory
+- **300 Provisionning**
+	- Theory/Intent
+		- Wilber: supports and represents the third quadrant: **Collective Objective**
+		- System theory: "**Input**" oriented area in the system lifecycle
+		- PLM: *Information* oriented
+	- Space guidelines
+		- Similar to the **Ressources** folder of PARA and **Sources** from **ACCESS**
+		- All you need to store from the outside word
 	- It can support:
 		- Your readings
 		- Note Taking
@@ -158,44 +207,76 @@ Here it goes:
 		- Collection of articles and books your read
 		- Readwise automatic imports
 		- Ressources
-	- Dimensions can be:
+		- School Notes
+	- Dimensions could be:
 		- Readwise
 		- Books/Articles/Movies/Quotes
 		- Knowledge taxonomy: Philosophy/Science/Spirituality
-- 400 Involvement
-	-  ➡️ Space supporting and representing the fourth quadrant: Collective Subjective
-	- It's an "**input**" step in the system theory 
+- **400 Involvement**
+	- Theory/Intent
+		- Wilber: Supports and represents the fourth quadrant: **Collective Subjective**
+		- System theory: "**Input**" oriented area in the system lifecycle
+		- PLM: *Information* oriented
+	- Space guidelines
+		- The place to enhance your relationships
+		- Leverage storage to never forget important details about people around you
+		- Create a note per person and fill it over time
 	- It can support:
 		- Community Nurturing
 		- Social memories collection
-	- Dimensions can be:
-		- 
-- 500 Emergence
-	- ➡️ Space supporting and representing a mix of the 4 previous quadrants
-	- It's a wonderful **mix of input/process/outputs** steps in the system theory 
+	- Dimensions could be:
+		- Humans
+		- Organisations
+		- Relationships to deepen
+		- Built communities
+- **500 Emergence**
+	- Theory/Intent
+		- Supports the **4 previous quadrants**
+		- Wonderful **mix of input/process/outputs** oriented area in the system lifecycle
+		- PLM: *Information* oriented, ready for *Actionability*
+	- Space guidelines
+		- The place for you atomic/zettel/evergreen notes and similar to **Cards** from **ACCESS**
+		- Note **making** in your own words/understanding of things
+		- Concept oriented and laser focus
+		- Long term notes from ideas/inputs/thoughts
+		- Very high linkable capacity
 	- It can support:
 		- Idea emergence
 		- Information from the world (in our own words of course)
 		- Information about people 
 		- Concepts and tiny frameworks
 		- Note Making over Note Taking
-	- Dimensions can be:
-		- 
-- 600 Nexus
-	- ➡️ Space supporting linking between every precedent space
-	- It's a "**process**" step in the system theory 
+	- Dimensions could be:
+		- —none—
+		- Status oriented : In nurturing and Advanced
+- **600 Nexus**
+	- Theory/Intent
+		- Wilber: Supports linking between every Space
+		- System theory: It's a "**process**" oriented area in the system theory 
+		- PLM: *Information* oriented
+	- Space guidelines
+		- Similar to **Atlas** from **ACCESS**
+		- A place to go regularly to nurture linking 
+		- Linking concepts as well as everything from your life
 	- It can support:
-		- A place for Map of contents
-		- Logging
-		- Summaries to prepare for new concepts and frameworks to share
+		- Linking your thinking
+		- Indexing notes
+		- Navigation by links
 	- Dimensions can be:
-- 700 Standards
-	- ➡️ Space supporting the learning from actions (one of my favorites tbh)
-	- It's a "**process**" very close to "**outputs**" in the system theory 
-	- It is inspired from Lean Standards, it is your personal frameworks for life
-		- A recurring "gesture" needs a standard to prevent errors
-		- Clear self-made guidelines allow for better efficiency
-		- Written guidelines on a matter can be shared to improve community as a whole
+		- MOCs
+		- Indexes (if you want to have them in one place)
+		- Logs
+		- Summaries and other colliding notes
+- **700 Standards**
+	- Theory/Intent
+		- Wilber: Supports the learning from actions (one of my favorites tbh)
+		- System theory: "**Process**" very close to "**outputs**" in the system theory, then totally "**Feedback**" oriented area
+		- PLM: *Action* and *Information* oriented
+	- Space guidelines
+		- It is inspired from Lean Standards, it is your personal frameworks for life
+		- A note as a standard for recurring "gesture", to prevent errors
+		- Clear self-made guidelines allowing for better efficiency
+		- Written guidelines on a matter that can be shared, to improve community as a whole from your personal experience
 	- It can support:
 		- Self-reflexion and introspection
 		- Feedback Loops
@@ -205,27 +286,43 @@ Here it goes:
 		- The same as Activities
 		- Nature of gesture supported: tech/social/art
 
-*👉 You can learn more about each **Space** and **Dimension** in their index notes, where their nature of the content and aims are described.*
+*👉 You can learn more about each **Space** and **Dimension** in the examples of index notes I've created in the vault, where their nature of the content and aims are described.*
 
 ## The Indexing
-This numbers represent folders and file according to their nature. 
-It helps making indexes, retrieving data, and referencing vault's elements in other systems (calendars app, other note taking apps, tasks lists, post-its, emails, etc).
-It is inspired by:
-- The Dewey system
-- Johnny Decimal
+The method of **Indexing** simply involves creating one note per folder of space/dimension/embodiment, whose name is the same as the folder. Moreover, each **index** has its own **unique number** according to place it occupies in the **Foundation** (*see below*).
 
-Here it goes:
+There are some advantages to that:
+- Having a nice obsidian graph
+- Navigation by links
+- Easy referencing of a place in your **Foundation** (from inside or outside your vault)
+- Facilitated file search and navigation from a place to another
+- Easy search in Archives
+
+It can feel a bit annoying to create an index for each place, but with templates it is made very easy, and the more you use the framework, the less you have to do it, as all **Spaces** and **Dimensions** are already in place —hopefully, these will move and change along your life, but you see what I mean.
+
+The indexing and ordering of the **Foundation** is helped by the following numbering system:
 - **000** Space
 - **010.** Dimension
-- **011.** Sub-Dimension
+- **011:** Sub-Dimension
 	- Just another degree of precision for a dimension, can be useful to multiply our taxonomy and gain granularity
 - **XXX** • Embodiment
 - No numbers
 	- Just the notes linked to an embodiment or in the • Extras • folder
 
+The numbering is inspired by:
+- The Dewey system
+- Johnny Decimal
+
+The **Indexing** is not mandatory for **SAPIENS** to work, nor is the numbering system to the **Indexing**, but they help making indexes, retrieving data, and referencing vault's place in other systems (calendars app, other note taking apps, tasks lists, post-its, emails, etc).
+
 # 🛣️ Roadmap
+- [ ] Improve explanation about indexing
+- [ ] Create more templates
 - [ ] Create a better walkthrough than a big README file
+	- [ ] Is the whole thing to complex?
+- [ ] Reinforce the narrative and storytelling around the framework
 - [ ] Propose a tag sytem
+- [ ] Implement a deeper use of MOCs
 - [ ] Add cool plugins 😎 to support the ideology
 - [ ] Find feedbacks to enhance the framework
 - [ ] Detail PLM method with my Venn diagram of reality (what is he talking about 🤔)
