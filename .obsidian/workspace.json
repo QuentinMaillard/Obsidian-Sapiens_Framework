@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1ea736614a2dd8c5",
+        "id": "eb27ed3504a24a31",
         "type": "tabs",
         "children": [
           {
-            "id": "8188d859e8f1e58e",
+            "id": "fed63505b9f8d2d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,11 +157,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f7f740ccc2f0edd3",
+  "active": "fed63505b9f8d2d0",
   "lastOpenFiles": [
+    "• Home •.md",
     "200 Activities/220. Writing/• Outputs •",
     "README.md",
-    "• Home •.md",
     "700 Standards/700 • SAPIENS (vault) Standard.md",
     "200 Activities/210. Coding/• Ressources •/210 • CodeGPT Prompt.md",
     "200 Activities/210. Coding/211 • My portfolio/211 • My portfolio.md",
@@ -194,7 +194,6 @@
     "• Pocket Space •/Attachements/planetarium.jpeg",
     "600 Nexus/620. Logs",
     "600 Nexus/610. MOCs",
-    "• Pocket Space •/Attachements",
-    "200 Activities/220. Writing/• Ressources"
+    "• Pocket Space •/Attachements"
   ]
 }

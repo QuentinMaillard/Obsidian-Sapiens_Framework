@@ -319,6 +319,9 @@ The numbering is inspired by:
 
 The **Indexing** is not mandatory for **SAPIENS/The Foundation** to work, nor is the numbering system to the **Indexing**, but they help making indexes, retrieving data, and referencing vault's place in other systems (calendars app, other note taking apps, tasks lists, post-its, emails, etc).
 
+What I like about it, is that it is an incentive to **avoid too much folder nesting**.
+It allows it, but your structure will look better and work nicer if you don't go beyond folder in a sub-dimension, it's ***guidelines by design***.
+
 # 🛣️ Roadmap
 - [ ] Create more templates
 - [ ] Enhance onboarding
