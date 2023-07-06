@@ -1,6 +1,6 @@
 # S.A.P.I.E.N.S
-## A global PKM Framework
-An approach to daily-life intended for Obsidian.
+## The global PKM Framework
+A philosophy of everyday life applied to Obsidian, to support curiosity, thinking, projects, relationships and introspection.
 
 ⚠️ This is an Alpha version that I hope will ignite discussions, provoke introspection, and give people a head start in the wondrous world of PKM/Obsidian.💫
 
@@ -89,7 +89,7 @@ There is room for improvement, check roadmap an the end 👇
 
 👉 *Play around, explore, and don't hesitate a second to send me DM to talk about it or anything else, I'll be glad to chit-chat (twitter link at the bottom)*
 
-There are three main particularities to this system : the **Foundation** —which is the structure of the framework and its underlying particularities—, the **SAPIENS** structure, and the **Indexing** system — supported by a dewey-like numbering, and the existing.
+There are three main particularities to this system : the **Foundation** —which is the structure of the framework and its underlying particularities—, the **SAPIENS** structure, and the **Indexing** system — supported by a dewey-like numbering.
 
 ## The Foundation 
 In the **Foundation**, a folder or note (except for extras) can be of three types:
@@ -170,6 +170,7 @@ Here it goes:
 		- Intentions and north stars
 		- Reminders about life
 		- Meditation journaling
+		- Gratitude
 	- Dimensions could be:
 		- Journal
 		- Feedbacks
