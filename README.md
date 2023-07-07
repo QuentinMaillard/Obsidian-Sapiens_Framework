@@ -1,6 +1,6 @@
 # S.A.P.I.E.N.S
-## The global PKM Framework
-A philosophy of everyday life applied to Obsidian, to support curiosity, thinking, projects, relationships and introspection.
+## A global PKM Framework
+A philosophy of everyday life infused in a structure for Obsidian, to support curiosity, thinking, projects, relationships and introspection.
 
 ⚠️ This is an Alpha version that I hope will ignite discussions, provoke introspection, and give people a head start in the wondrous world of PKM/Obsidian.💫
 
@@ -303,8 +303,8 @@ It can feel a bit annoying to create an index for each place, but with templates
 
 The indexing and ordering of the **Foundation** is helped by the following numbering system:
 - **000** Space
-- **010.** Dimension
-- **011:** Sub-Dimension
+- **010 .** Dimension
+- **011 :** Sub-Dimension
 	- Just another degree of precision for a dimension, can be useful to multiply our taxonomy and gain granularity
 - **XXX** • Embodiment
 - • folder/file •
@@ -334,7 +334,8 @@ It allows it, but your structure will look better and work nicer if you don't go
 	- [ ] Add informations about recommended methods to use inside the framework (gtd, zettel, etc)
 	- [ ] Add more examples across the repository
 	- [ ] Add synonyms to my neologisms and taxonomy to improve understanding
-- [ ] Propose a tag sytem
+- [ ] Propose a tag system
+- [ ] Add nice shortcuts
 - [ ] Implement a deeper use of MOCs
 - [ ] Add cool plugins 😎 to support the ideology
 - [ ] Find feedbacks to enhance the framework
