@@ -1,20 +1,32 @@
-⬆️ up :: [[600 Standards]]
+⬆️ up :: [[700 Standards]]
 
 🏷️ tags :: #index/embodiment
 
 ---
 
-There are three main particularities to this system : the **Foundation** —which is the structure of the framework and its underlying particularities—, the **SAPIENS** structure, and the **Indexing** system — supported by a dewey-like numbering, and the existing.
+# What is concerned
+The structure and functioning of my obsidian vault.
 
-## The Foundation 
+# What do I want
+I don't want my to be just a place of work and knowledge, I want it to be a place of emotions, contemplation, humor and poetry. 
+A pocket size where you can find a digest of my life, of my personality, which goes beyond work and responsibilities, but which taps into beauty and experience.
+
+# What can I do
+Create a structure that fits my needs and the big areas of my life, that gives me enough freedom to make it evolve and look like me, that is practical enough to make the whole process of working and exploring easy and pleasant.
+
+# What is done
+
+## The Foundation's structure
 In the **Foundation**, a folder or note (except for extras) can be of three types:
 - **Space**
 - **Dimension** (of a space) and sub-dimension
 - **Embodiment** (of a space or dimension)
 
+Each of this type is what I am going to call a "**Place**".
+
 ➡️ A **Space** in an empty area, a possibility, it's made to be yours and filled by you. 
 
-The 7 current spaces reflect (*see below for more*) the big areas of mundane life, from **information to action**, with consideration to structuring stuff like relationships (involvement), habits (standards), and self-care.
+The 7 current spaces reflect (*see below for more*) the big areas of the actions of our everyday life, from **acquisition to production**, with consideration to structuring actions like being *involved* in relationships, cultivating habits *standards*, and taking *care of ourselves*.
 
 Each **Space** has a particular aim, and a unique functioning!
 
@@ -39,7 +51,7 @@ You can even have Dimensions or Sub-Dimensions as embodiments, like what I did w
 
 These are guidelines and intents, now use them and break them as you wish!
 
-## SAPIENS structure
+## SAPIENS taxonomy
 The current **Spaces** are inspired from:
 - Nick Milo's ACCESS and Tiago Forte's PARA
 - Wilber's quadrants
@@ -85,6 +97,7 @@ Here it goes:
 		- Intentions and north stars
 		- Reminders about life
 		- Meditation journaling
+		- Gratitude
 	- Dimensions could be:
 		- Journal
 		- Feedbacks
@@ -204,28 +217,46 @@ Here it goes:
 *👉 You can learn more about each **Space** and **Dimension** in the examples of index notes I've created in the vault, where their nature of the content and aims are described.*
 
 ## The Indexing
-The method of **Indexing** simply involves creating one note per folder of space/dimension/embodiment, whose name is the same as the folder. Moreover, each **index** has its own **unique number** according to place it occupies in the **Foundation** (*see below*).
+The method of **Indexing** simply involves creating one note per folder of a **Place** (Space/Dimension/Embodiment), whose name is the same as the folder. 
+Moreover, each **Place's index** has its own **unique number** according to the location it has in the **Foundation** (*see below*).
 
 There are some advantages to that:
-- Having a nice obsidian graph
-- Navigation by links
-- Easy referencing of a place in your **Foundation** (from inside or outside your vault)
-- Facilitated file search and navigation from a place to another
-- Easy search in Archives
+- Having a **nice obsidian graph** ❤️
+- Navigation between **Places** by links
+- Easy **referencing** of a place in your **Foundation** (from inside or outside your vault)
+- **Facilitated file search/moving** with the *Quick Switcher* : firstly typing the number will **filter the whole vault** on **no other thing than the **"Place"** wanted** (including Archives)
 
-It can feel a bit annoying to create an index for each place, but with templates it is made very easy, and the more you use the framework, the less you have to do it, as all **Spaces** and **Dimensions** are already in place —hopefully, these will move and change along your life, but you see what I mean.
+It can feel a bit annoying to create an index for each **Place**, but with templates it is made very easy, and the more you use the framework, the less you have to do it, as all **Spaces** and **Dimensions** are already in place —hopefully, these will move and change along your life, but you see what I mean.
 
-The indexing and ordering of the **Foundation** is helped by the following numbering system:
-- **000** Space
-- **010.** Dimension
-- **011:** Sub-Dimension
-	- Just another degree of precision for a dimension, can be useful to multiply our taxonomy and gain granularity
-- **XXX** • Embodiment
-- No numbers
-	- Just the notes linked to an embodiment or in the • Extras • folder
-
+### The numbering
 The numbering is inspired by:
 - The Dewey system
 - Johnny Decimal
 
-The **Indexing** is not mandatory for **SAPIENS** to work, nor is the numbering system to the **Indexing**, but they help making indexes, retrieving data, and referencing vault's place in other systems (calendars app, other note taking apps, tasks lists, post-its, emails, etc).
+The indexing and ordering of the **Foundation** is helped by the following numbering system:
+- **000** Space
+- **010 .** Dimension
+- **011 :** Sub-Dimension
+	- Just another degree of precision for a dimension, can be useful to multiply our taxonomy and gain granularity
+- **XXX** • Embodiment
+- • folder/file •
+	- Just notes and folders you want to stand out for whatever reason, without being its own place or embodiment
+	- I personally use it for miscellaneous files and support notes
+- *No numbers*
+	- Just notes and folders of a place
+
+What I like about it, is that it is an incentive to **avoid too much folder nesting** by limiting the numbers to three levels.
+It allows nesting, but your structure will look better and work nicer if you don't go much deeper than a sub-dimension, it's ***guidelines by design***.
+
+### Index notes
+The index notes are a place of information and work like any other.
+They should help you jump right into the **Place** your are entering.
+They should inform you about what the **Place** is about — the why — and what it contains.
+
+Index can be used to:
+- link people to a project
+- store meta data (deadlines, start date, themes and tags)
+- store todo's
+- remind yourself your intentions, the importance of the **Place** you created
+
+The **Indexing** is not mandatory for **SAPIENS/The Foundation** to work, nor is the numbering system to the **Indexing**, but they help making indexes, retrieving data, and referencing vault's place in other systems (calendars app, other note taking apps, tasks lists, post-its, emails, etc).

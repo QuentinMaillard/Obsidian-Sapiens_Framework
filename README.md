@@ -303,6 +303,11 @@ There are some advantages to that:
 
 It can feel a bit annoying to create an index for each **Place**, but with templates it is made very easy, and the more you use the framework, the less you have to do it, as all **Spaces** and **Dimensions** are already in place —hopefully, these will move and change along your life, but you see what I mean.
 
+### The numbering
+The numbering is inspired by:
+- The Dewey system
+- Johnny Decimal
+
 The indexing and ordering of the **Foundation** is helped by the following numbering system:
 - **000** Space
 - **010 .** Dimension
@@ -315,14 +320,23 @@ The indexing and ordering of the **Foundation** is helped by the following numbe
 - *No numbers*
 	- Just notes and folders of a place
 
-The numbering is inspired by:
-- The Dewey system
-- Johnny Decimal
+What I like about it, is that it is an incentive to **avoid too much folder nesting** by limiting the numbers to three levels.
+It allows nesting, but your structure will look better and work nicer if you don't go much deeper than a sub-dimension, it's ***guidelines by design***.
+
+### Index notes
+The index notes are a place of information and work like any other.
+They should help you jump right into the **Place** your are entering.
+They should inform you about what the **Place** is about — the why — and what it contains.
+
+Index can be used to:
+- link people to a project
+- store meta data (deadlines, start date, themes and tags)
+- store todo's
+- remind yourself your intentions, the importance of the **Place** you created
 
 The **Indexing** is not mandatory for **SAPIENS/The Foundation** to work, nor is the numbering system to the **Indexing**, but they help making indexes, retrieving data, and referencing vault's place in other systems (calendars app, other note taking apps, tasks lists, post-its, emails, etc).
 
-What I like about it, is that it is an incentive to **avoid too much folder nesting**.
-It allows it, but your structure will look better and work nicer if you don't go beyond folder in a sub-dimension, it's ***guidelines by design***.
+But remember, things move in a vault. So don't think too much about having the perfect system, the perfect cozy place for a note. Put it where it feels good and not absurd, there is rarely only ONE good place for a note.
 
 # 🛣️ Roadmap
 - [ ] Create more templates
