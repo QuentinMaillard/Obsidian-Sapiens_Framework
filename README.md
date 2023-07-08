@@ -39,13 +39,13 @@ The model is a virtualisation of the main areas of mundane life that aims to hel
 
 ➡️ This underlying structure and the whole approach's intent is what I call the **Foundation**
 
-➡️ Each letter of SAPIENS represents a **Space** in the **Foundation**, each **Space** will have **Dimensions** and **Embodiments**
+➡️ Each letter of SAPIENS represents a **Space** in the **Foundation**, each **Space** is an area of life and will have personal **Dimensions** and **Embodiments**
 
 ➡️ Everything is **Indexed** with an agnostic **numbering** system.
 
-*👉 To understand more about what all that mean, **how the framework works** and all the **philosophy** behind it, read the section [👩‍💻 Usage (standard)](#-usage-standard)*
+*👉 To understand more about what all that mean, **how the framework works** and all the **philosophy** behind it, jump to the section [👩‍💻 Usage (standard)](#-usage-standard)*
 
-*👉 To understand more about **my intention and its aims**, read the section [🌱 Intention](#-intention) below.*
+*👉 To understand more about **my intention and the aims of the framework**, read the section [🌱 Intention](#-intention) below.*
 
 # 🫵 Is it for you?
 - Are you starting in PKM?
@@ -69,7 +69,7 @@ I want the SAPIENS Framework to be a global file/information taxonomy and philos
 👉 **It looks in a lot of ways to ACCESS from Nick Milo and PARA from Tiago.**
 During my PKM journey I've built a personal system to meet my need, and it converged toward what I will later discover as the ACCESS framework.
 
-Obviously, with so much quality in these frameworks (and people), I was deeply inspired, but I tried to go beyond it with some help from system theory, Wilber's approach and my own views on life (more about that in the [👩‍💻 Usage (standard)](#-usage-standard) section).
+Obviously, with so much quality in these frameworks (and people), I was deeply inspired, but I tried to go beyond them with some help from system theory, Wilber's approach and my own views on life (more about that in the [👩‍💻 Usage (standard)](#-usage-standard) section).
 
 There is room for improvement, check roadmap an the end 👇
 
@@ -89,17 +89,19 @@ There is room for improvement, check roadmap an the end 👇
 
 👉 *Play around, explore, and don't hesitate a second to send me DM to talk about it or anything else, I'll be glad to chit-chat (twitter link at the bottom)*
 
-There are three main particularities to this system : the **Foundation** —which is the structure of the framework and its underlying particularities—, the **SAPIENS** structure, and the **Indexing** system — supported by a dewey-like numbering.
+There are three main particularities to this system : the **Foundation** —which is the structure of the framework and its underlying particularities—, the **SAPIENS** taxonomy, and the **Indexing** system — supported by a dewey-like numbering.
 
-## The Foundation 
+## The Foundation's structure
 In the **Foundation**, a folder or note (except for extras) can be of three types:
 - **Space**
 - **Dimension** (of a space) and sub-dimension
 - **Embodiment** (of a space or dimension)
 
+Each of this type is what I am going to call a "**Place**".
+
 ➡️ A **Space** in an empty area, a possibility, it's made to be yours and filled by you. 
 
-The 7 current spaces reflect (*see below for more*) the big areas of mundane life, from **information to action**, with consideration to structuring stuff like relationships (involvement), habits (standards), and self-care.
+The 7 current spaces reflect (*see below for more*) the big areas of the actions of our everyday life, from **acquisition to production**, with consideration to structuring actions like being *involved* in relationships, cultivating habits *standards*, and taking *care of ourselves*.
 
 Each **Space** has a particular aim, and a unique functioning!
 
@@ -124,7 +126,7 @@ You can even have Dimensions or Sub-Dimensions as embodiments, like what I did w
 
 These are guidelines and intents, now use them and break them as you wish!
 
-## SAPIENS structure
+## SAPIENS taxonomy
 The current **Spaces** are inspired from:
 - Nick Milo's ACCESS and Tiago Forte's PARA
 - Wilber's quadrants
@@ -290,16 +292,16 @@ Here it goes:
 *👉 You can learn more about each **Space** and **Dimension** in the examples of index notes I've created in the vault, where their nature of the content and aims are described.*
 
 ## The Indexing
-The method of **Indexing** simply involves creating one note per folder of space/dimension/embodiment, whose name is the same as the folder. Moreover, each **index** has its own **unique number** according to place it occupies in the **Foundation** (*see below*).
+The method of **Indexing** simply involves creating one note per folder of a **Place** (Space/Dimension/Embodiment), whose name is the same as the folder. 
+Moreover, each **Place's index** has its own **unique number** according to the location it has in the **Foundation** (*see below*).
 
 There are some advantages to that:
-- Having a nice obsidian graph
-- Navigation by links
-- Easy referencing of a place in your **Foundation** (from inside or outside your vault)
-- Facilitated file search and navigation from a place to another
-- Easy search in Archives
+- Having a **nice obsidian graph** ❤️
+- Navigation between **Places** by links
+- Easy **referencing** of a place in your **Foundation** (from inside or outside your vault)
+- **Facilitated file search/moving** with the *Quick Switcher* : firstly typing the number will **filter the whole vault** on **no other thing than the **"Place"** wanted** (including Archives)
 
-It can feel a bit annoying to create an index for each place, but with templates it is made very easy, and the more you use the framework, the less you have to do it, as all **Spaces** and **Dimensions** are already in place —hopefully, these will move and change along your life, but you see what I mean.
+It can feel a bit annoying to create an index for each **Place**, but with templates it is made very easy, and the more you use the framework, the less you have to do it, as all **Spaces** and **Dimensions** are already in place —hopefully, these will move and change along your life, but you see what I mean.
 
 The indexing and ordering of the **Foundation** is helped by the following numbering system:
 - **000** Space

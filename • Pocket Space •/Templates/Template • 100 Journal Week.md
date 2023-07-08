@@ -4,12 +4,14 @@
 
 ---
 
-# This week notes
-```dataviewjs
-let currentWeekNumber = dv.current().date.weekNumber;
-dv.list(dv
-	.pages("#daily_note")
-	.where(n => n.date.weekNumber == currentWeekNumber)
-	.sort(n => n.date)
-	.file.link)
-```
+# Notes of the week
+
+
+# How was the week
+Let's introspect a bit, shall we?
+
+## What am I proud of
+
+## What am I grateful of
+
+## What I would've done differently
