@@ -2,7 +2,8 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "userIgnoreFilters": [
-    "• Extras •/"
+    "• Pocket Space •/",
+    "• Pocket Space •/Templates/"
   ],
-  "attachmentFolderPath": "• Extras •/Attachements"
+  "attachmentFolderPath": "• Pocket Space •/Attachements"
 }

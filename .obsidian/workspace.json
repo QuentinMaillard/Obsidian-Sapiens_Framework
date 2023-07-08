@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1c831693cc58ff2c",
+        "id": "87857441d973fe77",
         "type": "tabs",
         "children": [
           {
-            "id": "65d133c64c49b2f6",
+            "id": "a2eb76f6caa569e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "700 Standards/700 • SAPIENS (vault) Standard.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -31,7 +27,7 @@
       {
         "id": "e6c0ea7dcb07da9e",
         "type": "tabs",
-        "dimension": 62.77777777777778,
+        "dimension": 61.77777777777778,
         "children": [
           {
             "id": "f7f740ccc2f0edd3",
@@ -80,12 +76,12 @@
         ]
       },
       {
-        "id": "49687d1120dbb769",
+        "id": "ab58cd6fabddf1e1",
         "type": "tabs",
-        "dimension": 37.22222222222222,
+        "dimension": 38.22222222222222,
         "children": [
           {
-            "id": "be861d38ceacc6f8",
+            "id": "453038b2667da185",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -96,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 345.5
   },
   "right": {
     "id": "fc4eb3143291f610",
@@ -126,7 +122,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "700 Standards/700 • SAPIENS (vault) Standard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "700 Standards/700 • SAPIENS (vault) Standard.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "700 Standards/700 • SAPIENS (vault) Standard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "700 Standards/700 • SAPIENS (vault) Standard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,15 +204,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65d133c64c49b2f6",
+  "active": "a2eb76f6caa569e9",
   "lastOpenFiles": [
-    "700 Standards/700 Standards.md",
+    "600 Nexus/610. MOCs/610 • System applications.md",
+    "• Pocket Space •/Templates/Template • 100 • Embodied Journal Day.md",
+    "• Pocket Space •/Templates/Template • XXX • Indexed Embodiment.md",
+    "• Pocket Space •/Templates/Template • XXX • Indexed Sub-Dimension.md",
+    "• Pocket Space •/Templates/Template • 700 • Embodied Standard.md",
+    "• Pocket Space •/Templates/Template • XX0 • Indexed Dimension.md",
+    "• Pocket Space •/Templates/Template • X00 • Indexed Space.md",
+    "• Pocket Space •/Templates/Template • 500 • Embodied Atomic Note.md",
+    "• Pocket Space •/Templates/Template • 400 • Embodied Human.md",
+    "• Pocket Space •/Templates/Template • 100 • Embodied Journal Week.md",
     "700 Standards/700 • SAPIENS (vault) Standard.md",
+    "700 Standards/700 Standards.md",
     "README.md",
-    "• Pocket Space •/Templates/Template • Index Dimension.md",
-    "• Pocket Space •/Templates/Template • Index Space.md",
-    "• Pocket Space •/Templates/Template • 100 Journal Week.md",
-    "• Pocket Space •/Templates/Template • 100 Journal Day.md",
     "• Home •.md",
     "200 Activities/220. Writing/• Outputs •",
     "200 Activities/210. Coding/• Ressources •/210 • CodeGPT Prompt.md",
@@ -231,17 +228,11 @@
     "600 Nexus/610. MOCs/610. MOCs.md",
     "a.md",
     "200 Activities/220. Writing/221 • Article - System Thinking/221 • Article - System Thinking.md",
-    "600 Nexus/610. MOCs/610 • System applications.md",
     "600 Nexus/600 Nexus.md",
     "300 Provisioning/310. Books/310 • The scout Mindset.md",
     "400 Involvement/400 Involvement.md",
     "400 Involvement/420. Organisations/420. Organisations.md",
     "400 Involvement/410. Humans/410 • Quentin Maillard.md",
-    "500 Emergence/500 • Explorer mindset.md",
-    "500 Emergence/500 • Compass questions.md",
-    "500 Emergence/500 • Technical debt (dfn).md",
-    "500 Emergence/500 • The art of questions.md",
-    "500 Emergence/500 • Complexity (dfn).md",
     "300 Provisioning/310. Books",
     "400 Involvement/420. Organisations",
     "400 Involvement/410. Humans",
