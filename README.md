@@ -1,4 +1,9 @@
 # S.A.P.I.E.N.S (𝐴𝑙𝑝ℎ𝑎 𝑣𝑒𝑟𝑠𝑖𝑜𝑛)
+This repository was created for the framework to be tried and to collect feedbacks to improve the model, in order for me to create a whole world around it (website, ressources, articles, more methods, etc). I want to offer the best methodology for everyone to leverage their curiosity, knowledge and work.
+And also to present PKM possibilities to the students I teach. Hi stud.
+
+You are very welcome to send me your thoughts about it and your experience with it ❤️
+
 ## A global PKM Framework
 A philosophy of everyday life infused in a structure for Obsidian, to support curiosity, thinking, projects, relationships and introspection.
 
