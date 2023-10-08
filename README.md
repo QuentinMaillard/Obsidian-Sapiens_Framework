@@ -1,4 +1,4 @@
-# S.A.P.I.E.N.S
+# S.A.P.I.E.N.S (𝐴𝑙𝑝ℎ𝑎 𝑣𝑒𝑟𝑠𝑖𝑜𝑛)
 ## A global PKM Framework
 A philosophy of everyday life infused in a structure for Obsidian, to support curiosity, thinking, projects, relationships and introspection.
 
